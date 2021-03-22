@@ -1,6 +1,10 @@
 # SUIFontPicker 
 SUIFontPicker is a small, fast, and easy to use framework for integrating UIKit’s `UIFontPickerViewController` into your SwiftUI applications. 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwapnanilDhol/SUIFontPicker/main/Resources/sui-topbanner-image.PNG" width=600 />
+</p>
+
 ## Installation
 `SUIFontPicker` can be installed via the Swift Package Manager. Simply copy and paste this repo’s URL into your  project’s Package.swift file. 
 ```
